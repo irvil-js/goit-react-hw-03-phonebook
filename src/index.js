@@ -12,5 +12,3 @@ ReactDOM.render(
 );
 
 
-const link = React.createElement("a", { href: "reactjs.org" }, "Ssylka");
-console.log(link)
